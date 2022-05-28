@@ -2,7 +2,7 @@
 
 I'm an aspiring, mostly self taught Software Developer.
 
-I can be found on [Linkedin](https://www.linkedin.com/in/codeflarez/) if anyone wants to contact me.
+if anyone wants to contact me, I can be found on [Linkedin](https://www.linkedin.com/in/codeflarez/).
 
 <!--
 **flare-s/flare-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
