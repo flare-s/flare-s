@@ -2,7 +2,7 @@
 
 I'm an aspiring, mostly self-taught Software Developer.
 
-I enjoy coding because it gives the person the power to overcome challenges and struggles. The reward you get from simplifying problems and find an approach to solve them is satisfying. Being a part of an ever-evolving industry is something that excites me, because that means that there is a lot of new things to learn.
+I enjoy coding because it gives the person the power to overcome challenges and struggles. The reward that a person gets from simplifying problems and find an approach to solve them is satisfying. Being a part of an ever-evolving industry is something that excites me, because that means that there is a lot of new things to learn.
 
 if anyone wants to contact me, I can be found on [Linkedin](https://www.linkedin.com/in/codeflarez/).
 
