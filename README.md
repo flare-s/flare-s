@@ -20,7 +20,7 @@ I enjoy coding because it gives the person the power to overcome challenges and 
 ---
 
 - React.
-- Testing.
+- Testing JS code.
 
 ## Contact me
 if anyone wants to contact me, I can be found on [Linkedin](https://www.linkedin.com/in/codeflarez/).
