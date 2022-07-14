@@ -6,7 +6,7 @@ I'm an aspiring, mostly self-taught Software Developer.
 
 I enjoy coding because it gives the person the power to overcome challenges and struggles. The reward that a person gets from simplifying problems and find an approach to solve them is satisfying. Being a part of an ever-evolving industry is something that excites me, because that means that there is a lot of new things to learn.
 
-ou can see some of my work [here](https://flare-s.github.io/application/).
+View some of my work [here](https://flare-s.github.io/application/).
 
 ### Things I use on a daily-basis:
 
