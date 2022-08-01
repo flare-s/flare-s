@@ -13,16 +13,11 @@ View some of my work on my [portfolio](https://flare-s.github.io/portfolio/).
 ---
 
 - HTML.
-- css.
+- CSS.
 - JS.
 - Git and Github.
 
-### Things I'm currently learning:
 
----
-
-- React.
-- Testing JS code.
 
 ## Contact me
 if anyone wants to contact me, I can be found on [Linkedin](https://www.linkedin.com/in/codeflarez/).
