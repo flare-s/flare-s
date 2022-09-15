@@ -1,4 +1,4 @@
-# Hi there! I'm Abdullah. 👋😄
+# Hi there! I'm Abdullah. 
 
 ## About me
 
