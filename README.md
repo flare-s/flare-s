@@ -8,13 +8,20 @@ I enjoy coding because it gives the person the power to overcome challenges and 
 
 View some of my work on my [portfolio](https://flare-s.github.io/portfolio/).
 
-### Things I use on a daily-basis:
+### Languages and tech that I've worked with:
 
 ---
 
 - HTML.
 - CSS.
+- Sass
 - JS.
+- React
+- Node
+- Express
+- Sqlite
+- Firebase
+- Next
 - Git and Github.
 
 
